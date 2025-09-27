@@ -18,17 +18,8 @@ I hope you enjoy trying it out as much as I enjoyed making it!
 
 # Controls:
 
-Samurai:
-W - Jump
-A - Move Left
-D - Move Right
-Q - Slash
-Z - Block
-X - Dash
+# Samurai:
+W - Jump | A - Move Left | D - Move Right | Q - Slash | Z - Block | X - Dash
 
-Ninja:
-Arrow Up - Jump
-Arrow Left - Move Left
-Arrow Right - Move Right
-P - Stab
-O - Throw Projectile
+# Ninja:
+Arrow Up - Jump | Arrow Left - Move Left | Arrow Right - Move Right | P - Stab | O - Throw Projectile
