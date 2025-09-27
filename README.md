@@ -16,8 +16,6 @@ It sparked my love for making games and taught me not just programming concepts,
 
 I hope you enjoy trying it out as much as I enjoyed making it!
 
-# Controls:
-
 # Samurai:
 W - Jump | A - Move Left | D - Move Right | Q - Slash | Z - Block | X - Dash
 
