@@ -15,3 +15,20 @@ This was my first major project and a true passion project.
 It sparked my love for making games and taught me not just programming concepts, but also how to bring an idea from scratch to something playable and fun.
 
 I hope you enjoy trying it out as much as I enjoyed making it!
+
+# Controls:
+
+Samurai:
+W - Jump
+A - Move Left
+D - Move Right
+Q - Slash
+Z - Block
+X - Dash
+
+Ninja:
+Arrow Up - Jump
+Arrow Left - Move Left
+Arrow Right - Move Right
+P - Stab
+O - Throw Projectile
